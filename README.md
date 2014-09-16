@@ -7,4 +7,4 @@ https://launchpad.net/libdbusmenu
 
 Needed packages from KCP, compile and install first:
 
-[libdbusmenu-gtk2](../../../libdbusmenu-glib)
+[libdbusmenu-glib](../../../libdbusmenu-glib)
